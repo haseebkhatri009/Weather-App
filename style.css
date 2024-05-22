@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    color: red;
+}
+form{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+body{
+    background-color: rgb(140, 82, 255);
+}
+#div1{
+    background-color: rgb(163, 229, 255);
+    border-radius: 20px;
+    width: 30%;
+    height: 30vh;
+    position: absolute;
+    left: 35%;
+    top: 20%;
+}
+#humidity{
+    position: relative;
+    bottom:     40px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+input{
+    width: 40%;
+    height: 3vh;
+    border-radius: 10px;
+    position: absolute;
+    left: 10%;
+}
+button{
+    width: 20%;
+    height: 3.5vh;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: rgb(140, 82, 255);
+    color: white;
+}
+#temp{
+    position: relative;
+    bottom: 15px;
+    font-weight: bolder;
+}
